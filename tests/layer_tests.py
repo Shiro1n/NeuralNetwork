@@ -1,7 +1,7 @@
 import numpy as np
 
-from activations import ReLU, Sigmoid
-from layer import Layer, LayerList
+from src.activations import ReLU, Sigmoid
+from src.layer import Layer, LayerList
 
 
 # 1. Test single layer
